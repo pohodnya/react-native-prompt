@@ -45,6 +45,7 @@
     "chai-as-promised": "^5.2.0",
     "colors": "^1.1.2",
     "mocha": "^2.3.4",
+    "prop-types": "^15.5.10",
     "sinon": "^1.17.2",
     "wd": "^0.4.0"
   }
